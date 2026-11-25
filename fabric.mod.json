@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "aurora",
+  "version": "${version}",
+  "name": "AURORA",
+  "description": "Visual client with a Winter Blue menu, HUD modules and JSON configs.",
+  "authors": ["You"],
+  "license": "All-Rights-Reserved",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.aurora.client.Aurora"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

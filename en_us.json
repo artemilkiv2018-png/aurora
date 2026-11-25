@@ -1,0 +1,18 @@
+{
+  "key.category.aurora.main": "AURORA",
+  "key.aurora.menu": "Open AURORA menu",
+  "key.aurora.module.crosshair": "Toggle Crosshair",
+  "key.aurora.module.full_bright": "Toggle Full Bright",
+  "key.aurora.module.hit_particles": "Toggle Hit Particles",
+  "key.aurora.module.trails": "Toggle Trails",
+  "key.aurora.module.china_hat": "Toggle China Hat",
+  "key.aurora.module.watermark": "Toggle Watermark",
+  "key.aurora.module.array_list": "Toggle Array List",
+  "key.aurora.module.fps": "Toggle FPS",
+  "key.aurora.module.ping": "Toggle Ping",
+  "key.aurora.module.player_nickname": "Toggle Player Nickname",
+  "key.aurora.module.target_hud": "Toggle Target HUD",
+  "key.aurora.module.notifications": "Toggle Notifications",
+  "key.aurora.module.auto_respawn": "Toggle Auto Respawn",
+  "key.aurora.module.streamer_mode": "Toggle Streamer Mode"
+}
